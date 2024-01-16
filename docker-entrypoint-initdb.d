@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS books;
+CREATE TABLE books (
+    title VARCHAR NOT NULL,
+    url VARCHAR 
+);
